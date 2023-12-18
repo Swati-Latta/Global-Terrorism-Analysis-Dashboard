@@ -20,12 +20,6 @@ Hello everyone, I’m pleased to announce that I've completed Task 2 of my inter
 ## 📝 Description:
 The Terrorism Database contains information about terrorist attacks globally, including details such as date, location, attack type, weapons used, casualties, and responsible groups. The objective was to develop a Power BI dashboard offering a comprehensive overview of global terrorism trends and patterns.
 
-# <img src="https://user-images.githubusercontent.com/106439762/181935629-b3c47bd3-77fb-4431-a11c-ff8ba0942b63.gif" width="48" height="48"> **User's Manual**
-
-| Files| Description |
-| -------------   | ------------- |
-| **Ecommerce Customers**  | This file Contains the dataset of E-commerce.  |
-| **ML_PROJECT(LINER_REGRESSION)** | This ipynb file Contains the code for ML Model. |
 
 
 # <img src="https://user-images.githubusercontent.com/106439762/181937125-2a4b22a3-f8a9-4226-bbd3-df972f9dbbc4.gif" width="48" height="48" > Quick Start
