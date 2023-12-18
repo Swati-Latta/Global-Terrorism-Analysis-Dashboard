@@ -1,11 +1,14 @@
 # Global-Terrorism-Analysis-Dashboard
-
 ###  *InternCareer Internship Tasks*
 
 ### Topic: "Terrorism Analysis Dashboard"
 ### 🗒 Dataset: Terrorism Database
 
+
+
 ![Terrorism image](https://github.com/Swati-Latta/Global-Terrorism-Analysis-Dashboard/assets/134490572/3810dc69-bf79-4460-9b41-d2ae19f7a530)
+
+
 
 
 ### 🗒 Tools Used: Excel,Power BI
