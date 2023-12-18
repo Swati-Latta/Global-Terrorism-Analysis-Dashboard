@@ -1,11 +1,11 @@
 # Global-Terrorism-Analysis-Dashboard
 
-##  *InternCareer Internship Tasks*
+###  *InternCareer Internship Tasks*
 
-## Topic: "Terrorism Analysis Dashboard"
-🗒 Dataset: Terrorism Database
+### Topic: "Terrorism Analysis Dashboard"
+### 🗒 Dataset: Terrorism Database
 
-## 🗒 Tools Used: Excel,Power BI
+### 🗒 Tools Used: Excel,Power BI
 
 #### Contains Tasks done under InternCareer Data Analyst Internship.
 
