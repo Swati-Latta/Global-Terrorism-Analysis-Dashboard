@@ -32,6 +32,8 @@ The Terrorism Database contains information about terrorist attacks globally, in
 6. Ensure that the data types are correctly assigned.
 7. Built a dashboard with slicers, filters and drill-through options.
 
+[Global Terrorism Analysis Dashboard.pdf](https://github.com/Swati-Latta/Global-Terrorism-Analysis-Dashboard/files/13706363/Global.Terrorism.Analysis.Dashboard.pdf)
+
 ## 📌 Key Findings:
 - Magnitude of Impact: The numbers speak volumes—170.4K Total Attacks leading to a staggering 904.0K Total Casualties, including 335.0K Civilians Killed and 499.9K Civilians Wounded, underscoring the gravity of this global issue.
 - From 1970 to 2020, a fluctuating pattern in attacks emerges, peaking around 2014 (16.1k attack) and gradually subsiding thereafter.
