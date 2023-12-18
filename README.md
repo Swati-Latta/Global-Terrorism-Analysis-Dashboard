@@ -9,7 +9,7 @@
 
 #### Contains Tasks done under InternCareer Data Analyst Internship.
 
-Hello everyone, I’m pleased to announce that I've completed Task 1 of my internship at InternCareer! This represents a noteworthy achievement in my journey of learning and personal growth.
+Hello everyone, I’m pleased to announce that I've completed Task 2 of my internship at InternCareer! This represents a noteworthy achievement in my journey of learning and personal growth.
 
 ## 📝 Description:
 The Terrorism Database contains information about terrorist attacks globally, including details such as date, location, attack type, weapons used, casualties, and responsible groups. The objective was to develop a Power BI dashboard offering a comprehensive overview of global terrorism trends and patterns.
