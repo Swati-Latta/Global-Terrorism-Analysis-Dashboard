@@ -35,6 +35,8 @@ The Terrorism Database contains information about terrorist attacks globally, in
 
 <br>
 
+### *DASHBOARD*
+
 ![DASHBOARD](https://github.com/Swati-Latta/Global-Terrorism-Analysis-Dashboard/assets/134490572/5a6fa0bc-a652-4809-a82f-224739b517f7)
 
 
