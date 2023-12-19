@@ -36,11 +36,7 @@ The Terrorism Database contains information about terrorist attacks globally, in
 
 ![DASHBOARD](https://github.com/Swati-Latta/Global-Terrorism-Analysis-Dashboard/assets/134490572/5a6fa0bc-a652-4809-a82f-224739b517f7)
 
-- Magnitude of Impact: The numbers speak volumes—170.4K Total Attacks leading to a staggering 904.0K Total Casualties, including 335.0K Civilians Killed and 499.9K Civilians Wounded, underscoring the gravity of this global issue.
-- From 1970 to 2020, a fluctuating pattern in attacks emerges, peaking around 2014 (16.1k attack) and gradually subsiding thereafter.
-- Tactical Prevalence: Bombing/Explosion emerges as the dominant attack method, emphasizing the persistent threat posed by these violent means.
-- Explosives remain the primary weapon of choice, solidifying the gravity of this menacing trend.
-- Taliban is most Deadly Group.
+
 
 # <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> Insights 
 
